@@ -16,8 +16,12 @@ What things are needed to install the software and how to install them. For now,
 
 ## Built With
 
-* [Python](https://www.python.org/) - The coding language used
+* [GoLang](https://go.dev/doc/effective_go) - The coding language used
+
+#Run
+go run ~/<name>.go
 
 ## Authors
 
 * **Lavanya** - *GOLang* - [YourWebsite](https://github.com/chvlavanya/mycode)
+
