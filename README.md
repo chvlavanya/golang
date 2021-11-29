@@ -1,4 +1,4 @@
-# mycode (GoLang)
+i# mycode (GoLang)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
@@ -12,7 +12,7 @@ on a live system.
 ### Prerequisites
 
 What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install python and python3 using apt."
+"how to install golang using apt."
 
 ## Built With
 
