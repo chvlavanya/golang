@@ -18,8 +18,10 @@ What things are needed to install the software and how to install them. For now,
 
 * [GoLang](https://go.dev/doc/effective_go) - The coding language used
 
-#Run
-go run ~/<name>.go
+#Compile and Run
+  go run <name>.go
+#compile
+  go vet <name>.go
 
 ## Authors
 
