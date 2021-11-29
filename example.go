@@ -1,4 +1,4 @@
-/* Alta3 Research | RZFeeser
+/* 
    CHALLENGE 01 - using fmt.Sprintf() to construct
    https://example.org:6001/v2/snacks?req=snickers&quantity=1&size=king
    
