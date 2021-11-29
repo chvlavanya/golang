@@ -1,7 +1,6 @@
-i# mycode (GoLang)
+# mycode (GoLang)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+GOLang training
 
 ## Getting Started
 
@@ -10,9 +9,19 @@ for development and testing purposes. See deployment for notes on how to deploy 
 on a live system.
 
 ### Prerequisites
+synch b/w local and git repo:
 
-What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install golang using apt."
+	cd /home/student/.ssh
+	ssh-keygen -f id_rsa_github
+	Generates public/private rsa key pair.
+	copy id_rsa_github.pub content to git hub project settings - Deploy keys.
+
+Install Go on linux machine:
+
+	wget -c https://dl.google.com/go/go1.16.5.linux-amd64.tar.gz -O - | sudo tar -xz -C /usr/local
+	echo "export PATH=$PATH:/usr/local/go/bin" > .bash_training/gopath
+	source ~/.profile
+	go version
 
 ## Built With
 
