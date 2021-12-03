@@ -1,4 +1,4 @@
-/*
+/* RZFeeser | Alta3 Research
    HTTP File server  
    create a new program that utilizes both of these HTML documents(public/index.html,public/about.html)
    go run ~/fileserver01.go
