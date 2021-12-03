@@ -6,6 +6,7 @@
 student@bchd:~$ curl localhost:8079/Alta3
 
 The response should be, Hello, Alta3
+A generic URL has the following form: scheme:[//[user:password@]host[:port]][/]path[?query][#fragment] The query parameters start with the ? character. Multiple query parameters are separated with & character. This is an example of a URL with two query parameters. https://example.com:8042/over/there?name=ferret&type=fluffy
    
    */
 

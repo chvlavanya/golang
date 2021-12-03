@@ -1,5 +1,8 @@
 /* RZFeeser | Alata3 Research
-   HTTP Server                   */
+   HTTP Server   
+   go run ~/httpsvr01.go
+   in other window curl localhost:8089 or in browser localhost:8089
+   response should be, Hello, there */
 
 package main
 
